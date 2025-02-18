@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+🚀 Many of my repositories are private, but I have some exciting projects in the works that I'll be sharing soon. Stay tuned!  
+
+📌 In the meantime, feel free to check out my [resume](https://akumarlabs.github.io/) to learn more about my experience and skills.  
+
+💬 Always open to collaborations, discussions, and new opportunities — let's connect!  
+
 <!--
 **akumarlabs/akumarlabs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
